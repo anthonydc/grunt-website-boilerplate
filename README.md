@@ -9,7 +9,7 @@ A most excellent article on getting started with Grunt [A Beginner's Guide To Gr
 - [`time-grunt`](https://github.com/sindresorhus/time-grunt)
 - [`load-grunt-config`](https://github.com/firstandthird/load-grunt-config)
 - [`grunt-concurrent`](https://github.com/sindresorhus/grunt-concurrent)
-- [`grunt-contrib-clean`](https://github.com/gruntjs/grunt-contrib-clean)
+- [`grunt-contrib-clean`](https://github.com/gruntjs/grunt-contrib-clean) disabled
 - [`grunt-contrib-imagemin`](https://github.com/gruntjs/grunt-contrib-imagemin)
 - [`grunt-sass`](https://github.com/sindresorhus/grunt-sass)
 - [`grunt-contrib-uglify`](https://github.com/gruntjs/grunt-contrib-uglify)
@@ -18,7 +18,6 @@ A most excellent article on getting started with Grunt [A Beginner's Guide To Gr
 - [`grunt-contrib-watch`](https://github.com/gruntjs/grunt-contrib-watch)
 
 
-## Styles
-- [`Basscss`](http://www.basscss.com/)
+
 
 
